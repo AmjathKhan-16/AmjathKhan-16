@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>* 🎓 B.E. Student at St. Joseph's College of Engineering (2023 – 2027).<br>* 💻 Passionate Full Stack Developer focused on building modern and scalable web applications.<br>* 🧩 Strong Problem-Solving skills with a logical and analytical mindset.<br>* 👑 Effective Leadership abilities with experience working in teams and managing projects.<br>* 🗣️ Excellent Communication and collaboration skills for productive teamwork.<br>* ⏰ Skilled in Time Management, continuous learning, and adapting to new technologies.<br>
+* 🎓 B.E. Student at St. Joseph's College of Engineering (2023 – 2027).<br>* 💻 Passionate Full Stack Developer focused on building modern and scalable web applications.<br>* 🧩 Strong Problem-Solving skills with a logical and analytical mindset.<br>* 👑 Effective Leadership abilities with experience working in teams and managing projects.<br>* 🗣️ Excellent Communication and collaboration skills for productive teamwork.<br>* ⏰ Skilled in Time Management, continuous learning, and adapting to new technologies.<br>
 
 
 ## 🌐 Socials:
